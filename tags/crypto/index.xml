@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on Mystify</title>
+    <link>/tags/crypto/</link>
+    <description>Recent content in crypto on Mystify</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 23:53:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hxp CTF 2020: Hyper</title>
+      <link>/posts/2020-12-20-hxpctf-hyper/</link>
+      <pubDate>Sun, 20 Dec 2020 23:53:00 +0800</pubDate>
+      
+      <guid>/posts/2020-12-20-hxpctf-hyper/</guid>
+      <description>I was teamed up to play hxp CTF as @blackb6a last week. The hxp team had come up with a collection of hard challenges. In particular, there are two series of crypto challenges with a total of five parts. I will be writing on the hyper challenge and some follow-up and unanswered questions regarding to hyperelliptic curves.
+ⓘ 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝘀𝘁𝗮𝘁𝗲𝗱 𝘁𝗵𝗮𝘁 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗺𝗶𝘀𝗹𝗲𝗮𝗱𝗶𝗻𝗴
+Seriously. I knew nothing on hyperelliptic curves prior to the CTF.</description>
+    </item>
+    
+    <item>
+      <title>Dragon CTF 2020 Writeup</title>
+      <link>/posts/2020-11-23-dragonctf/</link>
+      <pubDate>Mon, 23 Nov 2020 04:33:50 +0800</pubDate>
+      
+      <guid>/posts/2020-11-23-dragonctf/</guid>
+      <description>Written from the perspective of Mystiz. babykok writeup by GeoffreyY.   .alert { padding: 20px; color: white; margin-bottom: 15px; } .alert.success { background-color: #28a745; } .alert.info { background-color: #17a2b8; } .alert.warning { background-color: #ffc107; color: #212529; } .alert.danger { background-color: #dc3545; }  Dragon CTF 2020 is definitely had my best CTF moments. There are big brain moments and I have been mind-blown for multiple times during the game. This time we have teamed up with @blackb6a.</description>
+    </item>
+    
+    <item>
+      <title>Google CTF 2020: Oracle</title>
+      <link>/posts/2020-08-25-google-ctf-oracle/</link>
+      <pubDate>Tue, 25 Aug 2020 16:15:00 +0800</pubDate>
+      
+      <guid>/posts/2020-08-25-google-ctf-oracle/</guid>
+      <description>I was teamed-up with @blackb6a on Google CTF this time. I have solved 7 challenges alone and 3 challenges with my teammates.
+In particular, Oracle is a crypto challenge with 13 solves. It has got me spending 12 hours. All in all, it was a great experience in terms of learning, but my liver hurts. This piece of writeup may be very computation intensive, just because I would like to make everything clear.</description>
+    </item>
+    
+    <item>
+      <title>De1CTF 2019 Writeup</title>
+      <link>/posts/2019-08-06-de1ctf/</link>
+
+      
+      <guid>/posts/2019-08-06-de1ctf/</guid>
+      <description>It has been a very long time that I&#39;ve compiled a writeup. This time I have played on my own as @blackb6a. Let me write on some particular interesting ideas that I have learnt in the challenges. Bear with me if you find this writeup too math-intensive.
+The solution scripts will be committed to my Github repository sooner or later, after I&#39;ve managed to prettify them.
+Babylfsr (Crypto, 338 points) This is an easy challenge.</description>
+    </item>
+    
+  </channel>
+</rss>
